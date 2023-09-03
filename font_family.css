@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=DM+Sans:ital,opsz,wght@1,9..40,200&family=Epilogue&family=Hanken+Grotesk:wght@200&family=Inter:wght@200&family=Josefin+Sans:wght@200;300&family=Kumbh+Sans:wght@300&family=League+Spartan&family=Lexend+Deca:wght@300;400&family=Libre+Franklin:wght@200&family=Manrope:wght@200&family=Outfit:wght@200&family=Plus+Jakarta+Sans:wght@200&family=Poppins:wght@200&family=Red+Hat+Display&display=swap');
+
+body{
+    font-family: 'League Spartan', sans-serif;
+}
+.person_data img{
+    width: 3rem;
+    border-radius: 50%;
+}
+.heading_box{
+    flex: .9;
+}
+.start img{
+    height: 1rem;
+}
